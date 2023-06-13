@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.493f9777.css",
+    "main.js": "/static/js/main.6769161b.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/anjali2.jpeg": "/static/media/anjali2.761c80b52b3af88dc3b4.jpeg",
+    "static/media/Anjali.jpeg": "/static/media/Anjali.47eff7b10b74cb4304b8.jpeg",
+    "static/media/newpic.jpg": "/static/media/newpic.016f68a42b5fa8497d06.jpg",
+    "static/media/newlogo.png": "/static/media/newlogo.b9ff78fbc8e694edda54.png",
+    "index.html": "/index.html",
+    "main.493f9777.css.map": "/static/css/main.493f9777.css.map",
+    "main.6769161b.js.map": "/static/js/main.6769161b.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.493f9777.css",
+    "static/js/main.6769161b.js"
+  ]
+}
